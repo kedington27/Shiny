@@ -1,0 +1,790 @@
+﻿name,address,type,opened,closed,borough,date_approx
+Incentra Village House,"32 8th Ave, New York, NY 10014",hotel,1841,2025,Manhattan,no
+Kauffman Saddlery Co,"139 E 24th St, New York, NY 10010",sex shop,1875,1991,Manhattan,yes
+Albert Hotel,"23 E 10th St, New York, NY 10003",hotel,1886,2025,Manhattan,yes
+Everard baths,"28 W 28th St, New York, NY 10001",baths,1888,1986,Manhattan,no
+Washington Square Park,"Washington Square, New York, NY 10012",cruising,1890,1070,Manhattan,yes
+Central Park,"Central Park, New York, NY  10028",cruising ,1890,2025,Manhattan,yes
+YMCA- West Side Branch,"5 W 63rd St, New York, NY 10023",hotel,1896,2025,Manhattan,no
+Marlton Hotel,"5 W 8th St, New York, NY 10011",hotel,1900,2025,Manhattan,no
+Earle Hotel,"103 Waverly Pl, New York, NY 10011",hotel,1902,2025,Manhattan,no
+Lyric,"213 West 42nd Street, New York, NY 10036",theatre,1903,1992,Manhattan,yes
+Amsterdam,"214 W 42nd St, New York, NY 10036",theatre,1903,2025,Manhattan,no
+Van Rensselaser Hotel,"17 E 11th St, New York, NY 10003",hotel,1912,1973,Manhattan,yes
+Selwyn,"229 W 42nd St, New York, NY 10036",theatre,1912,1995,Manhattan,yes
+Empire,"234 W 42nd St, New York, NY 10036",theatre,1912,1985,Manhattan,yes
+New Saint Marks,"6 St Marks Pl, New York, NY 10003",baths,1913,1978,Manhattan,no
+Greenwich Village Waterfront,"393 West St, New York, NY 10014",cruising,1914,2001,Manhattan,yes
+New Yorker,"2418 Broadway, New York, NY 10024",cruising at movies,1914,1985,Manhattan,yes
+Mt. Morris Baths,"28 W 125th St, New York, NY 10027",baths,1920,2003,Manhattan,yes
+Hotel St. George,"51 Clark St, Brooklyn, NY 11201",hotel,1920,1978,Brooklyn,
+Ye Waverly Inn,"16 Bank St, New York, NY 10014",restaurant,1920,2025,Manhattan,no
+Apollo,"223 W 42nd St, New York, NY 10036",theatre,1920,1978,Manhattan,yes
+Times Square Motor Inn,"W 43rd St & 8th Ave, New York, NY 10036",hotel,1922,1981,Manhattan,yes
+Fanelli's,"94 Prince St, New York, NY 10012",restaurant,1922,2025,Manhattan,no
+55th Street Playhouse,"7th Ave & W 55th St, New York, NY 10105",cinema,1927,1980,Manhattan,yes
+Marie's Crisis,"59 Grove St, New York, NY 10014",bar,1929,2025,Manhattan,no
+Julius',"159 W 10th St, New York, NY 10014",bar,1930,2025,Manhattan,no
+YMCA- William Sloane House,"356 W 34th St, New York, NY 10001",hotel,1930,1993,Manhattan,no
+Manhattan Towers,"Broadway & W 76th St, New York, NY 10024",hotel,1935,1974,Manhattan,yes
+Stauch's baths,"2534 W 15th St, Brooklyn, NY 11214",baths,1940,1983,Brooklyn,yes
+Riis Park Beach,"157 Rockaway Beach Blvd, Rockaway Park, NY 11694",cruising,1940,2025,Queens,no
+Orchard Beach,"Orchard Beach Cir, City Island Rd, Bronx, NY 10464",cruising,1940,2025,Bronx,yes
+Chelsea Mews Guest House,"344 W 15th St, New York, NY 10011",hotel,1941,2025,Manhattan,yes
+Elgin Theater,"176 8th Ave, New York, NY 10011",cruising at movies,1942,1978,Manhattan,no
+Beekman Place Park/River,"3 Mitchell Pl, New York, NY 10017",cruising,1942,2025,Manhattan,yes
+Menemsha Bar,"132 E 57th St, New York, NY 10022",bar,1947,1985,Manhattan,yes
+Sandpiper,"86 Mills Ave, Staten Island, NY 10305",bar/restaurant,1950,1988,Staten Island,
+Carmine's,"86 Mills Ave, Staten Island, NY 10305",bar/restaurant,1950,1988,Staten Island,
+Bon Soir,"40 W 8th St, New York, NY 10011",club,1950,1970,Manhattan,yes
+Junior's,"386 Flatbush Avenue EXT, Brooklyn, New York 11201",restaurant,1950,2025,Brooklyn,no
+Mayfair Bar & Grill,"3 Hyatt St, Staten Island, NY 10301",bar/restaurant,1952,1979,Staten Island,
+Brooklyn Heights Promenade,"5-1 Remsen St, Brooklyn, NY 11201",cruising,1952,1990,Brooklyn,no
+Eighty-two Club,"82 E 4th St, New York, NY 10003",club,1953,1978,Manhattan,no
+Claret Baths,"1415 Riegelmann Boardwalk, Brooklyn, NY 11224",baths,1960,1970,Brooklyn ,yes
+"South Beach, Franklin D. Roosevelt Boardwalk & Parking Lots","642 Father Capodanno Blvd, Staten Island, NY 10305",cruising,1960,2010,Staten Island,no
+Cruising Spot,"1000 5th Ave, New York, NY 10028",cruising,1960,2000,Manhattan,yes
+Cruising Spot,"106-21 68th Ave, Queens, NY 11375",cruising,1960,2000,Queens,yes
+Cruising Spot,"115-98 Park Ln S, Jamaica, NY 11418",cruising,1960,2000,Queens,yes
+Cameo Theatre,"128 W 44th St, New York, NY 10036",cruising,1960,2000,Manhattan,yes
+Cruising Spot,"1471 Broadway, New York, NY 10036",cruising,1960,2000,Manhattan,yes
+Cruising Spot,"225 W 42nd St, New York, NY 10036",cruising,1960,2000,Manhattan,yes
+Metropolitan Theatre,"235 E 14th St, New York, NY 10003",cruising,1960,2000,Manhattan,yes
+Brooklyn College,"2900 Bedford Avenue Brooklyn, NY 11210",cruising,1960,2000,Brooklyn,yes
+Cruising Spot (subway stations) (PENN STATION ADDRESS),"390 7th Ave., New York, NY 10001",cruising,1960,2000,Manhattan,yes
+Automat,"40 W 57th St, New York, NY 10019",cruising,1960,2000,Manhattan,yes
+Macy's,"450 7th Ave, New York, NY 10123",cruising,1960,2000,Manhattan,yes
+Tunnel cruising spot,"547 W 20th St, New York, NY 10011",cruising,1960,2000,Manhattan,yes
+Bloomingdale's,"59th Street and, 1000 Third Avenue, Lexington Ave, New York, NY 10022",cruising,1960,2000,Manhattan,yes
+Bus Station,"628 8th Ave, New York, NY 10018",cruising,1960,2000,Manhattan,yes
+New School,"66 West 12th Street, New York, NY 10011",cruising,1960,2000,Manhattan,yes
+Cruising Spot,"68-12 37th Rd, Woodside, NY 11377",cruising,1960,2000,Queens,yes
+Cruising Spot,"6th Ave & Greenwich Ave, New York, NY 10011",cruising,1960,2000,Manhattan,yes
+Cruising Spot,"915 3rd Ave, New York, NY 10022",cruising,1960,2000,Manhattan,yes
+Cruising Spot,"Bleecker St & Hudson St, New York, NY 10014",cruising,1960,2000,Manhattan,yes
+Cruising Spot,"Christopher St & West St, New York, NY 10014",cruising,1960,2000,Manhattan,yes
+Cruising Spot,"E 70th St & Third Avenue, New York, NY  10021",cruising,1960,2000,Manhattan,yes
+Riverside Park,"R25M+R3, New York, NY 10025",cruising,1960,2000,Manhattan,yes
+Bryant Park,"W 42nd St & 5th AveNew York, NY 10036",cruising,1960,2000,Manhattan,yes
+Cruising Spot,"W 75th St & Amsterdam Ave, New York, NY  10023",cruising,1960,2000,Manhattan,yes
+Cruising Spot,"W 77th St & Central Park W, New York, NY  10024",cruising,1960,2000,Manhattan,yes
+Le Club,"416 E 55th St. New York, NY 10022",private club/restaurant,1960,1995,Manhattan,
+Pompier Restaurant,"82 W 3rd St, New York, NY 10012",restaurant,1960,1967,Manhattan,no
+Variety Theater,"111 3rd Ave, New York, NY 10003",cruising at movies,1960,1990,Manhattan,yes
+Park Miller Theater,"151 W 42nd St, New York, NY 10036",cruising at movies,1960,1990,Manhattan,yes
+The Kings,"236 W 50th St, New York, NY 10019",cruising at movies,1960,1990,Manhattan,yes
+Thalia,"2541 Broadway, New York, NY 10025",cruising at movies,1960,1990,Manhattan,yes
+Riverside,"2568 Broadway, New York, NY 10025",cruising at movies,1960,1990,Manhattan,yes
+Tomcat Theater,"424 W 42nd St, New York, NY 10036",cruising at movies,1960,1990,Manhattan,yes
+Starlite Lounge,"1084 Bergen St, Brooklyn, NY 11216",bar,1962,2010,Brooklyn,no
+Ninth Circle,"169 W 10th St, New York, NY 10014",bar/restaurant,1962,2002,Manhattan,yes
+Beach Haven Bar,"901 Father Capodanno Blvd, Staten Island, NY 10305",bar,1963,1985,Staten Island,
+Tiffany Restaurant,"222 West 4th Street, New York, NY 10014",restaurant,1964,1994,Manhattan,no
+Kooky's,"149 W 14th St, New York, NY 10011",bar,1965,1973,Manhattan,
+Buddy-Buddy Club,"1400 Clove Rd, Staten Island, NY 10301",bar/restaurant,1965,1976,Staten Island,
+Sheridan Square Health Club,4th and Christopher Streets (Greenwich Village),gym,1965,1985,Manhattan,yes
+Sazerac House,"533 Hudson St, New York, NY 10014",restaurant,1965,2006,Manhattan,no
+Leather Man,"85 Christopher St, New York, NY 10014",sex shop,1965,2025,Manhattan,yes
+Carr's,"204 W 10th St, New York, NY 10014",bar,1966,,Manhattan,yes
+Broadway Arms,"218 W 49th St, New York, NY 10019",baths,1967,1991,Manhattan,no
+Oscar Wilde Memorial Book Store,"15 Christopher St, New York, NY 10014",bookstore,1967,2009,Manhattan,no
+Christopher Street Book Shop,"500 Hudson St, New York, NY 10014",bookstore,1967,2009,Manhattan,no
+Corduroy Club,"240 W 38th St, New York, NY 10018",private club,1967,1971,Manhattan,no
+Serendipity General Store,"225 E 60th St, New York, NY 10022",after hours malt shop,1968,1974,Manhattan,yes
+The Camp,"W 69th St & Columbus Ave, New York, NY 10023",after hours place,1968,1974,Manhattan,yes
+Big Spender,"315 W 48th St, New York, NY 10019",bar,1968,,Manhattan,
+Suana baths & Health Club,"18 W 58th St, New York, NY 10019",baths,1968,1974,Manhattan,yes
+Continental Baths at the Ansonia Hotel,"230 W 74th St, New York, NY 10023",baths,1968,1976,Manhattan,no
+Omnibus,"69 W 10th St, New York, NY 10011",coffee shop,1968,1974,Manhattan,yes
+The Laundry Chute,"W 74th St & Amsterdam Ave, New York, NY 10023",coffee shop,1968,1974,Manhattan,yes
+Tenth of Always,"82 W 3rd St, New York, NY 10012",juice bar,1968,1972,Manhattan,
+NY Motorbike Club,"149 W 21st St, New York, NY 10011",private club,1968,1974,Manhattan,yes
+The New Gallery (in Van Rensselaer Hotel),"15 E 11th St, New York, NY 10003",private club,1968,1974,Manhattan,yes
+Mystique East,"256 E 49th St, New York, NY 10022",private club,1968,1974,Manhattan,yes
+The Great Society,"2nd Ave & E 14th St, New York, NY 10003",private club,1968,1974,Manhattan,yes
+Two Penny Club,"36 E 30th St, New York, NY 10016",private club,1968,1974,Manhattan,yes
+El Baron Club,"74-02 Eliot Ave, Flushing, NY 11379",private club,1968,1974,Queens,yes
+Table Top Club,"E 93rd St & 3rd Ave, New York, NY 10128",private club,1968,1974,Manhattan,yes
+The Den,"Greenwich St & W 12th St, New York, NY 10014",private club,1968,1974,Manhattan,yes
+Stud (International),"731 Greenwich St, New York, NY 10014",bar/backroom,1969,1981,Manhattan,yes
+Eros Male Cinema,"732 8th Ave, New York, NY 10036",cinema,1969,1997,Manhattan,no
+Horn of Plenty,"91 Charles St, New York, NY 10014",restaurant,1969,1984,Manhattan,yes
+The Snake Pit,"215 W 10th St, New York, NY 10014",after hours bar,1970,1971,Manhattan,yes
+The Eagle,"142 11th Ave, New York, NY 10011",bar,1970,2025,Manhattan,no
+The Toilet,"400 W 14th St, New York, NY 10014",bar/club/backroom,1970,1986,Manhattan,yes
+42nd Street Barracks,"226 W 42nd St, New York, NY 10036",baths,1970,1985,Manhattan,yes
+Beacon Baths,"227 E 45th St, New York, NY 10017",baths,1970,1985,Manhattan,yes
+Sauna Baths,"300 W 58th St, New York, NY 10019",baths,1970,1985,Manhattan,yes
+Ansonia Books,"170 W 74th St, New York, NY 10023",bookstore,1970,1980,Manhattan,yes
+Studio Book Store,"178 Christopher St, New York, NY 10014",bookstore,1970,1980,Manhattan,yes
+Black Jack Books,"210 W 42nd St, New York, NY 10036",bookstore,1970,1979,Manhattan,yes
+Les Hommes Book Store,"217 W 80th St, New York, NY 10024",bookstore,1970,1986,Manhattan,yes
+Midtown Bookstore,"318 W 42nd St, New York, NY 10036",bookstore,1970,1995,Manhattan,yes
+Pandora Books,"88 Court St, Brooklyn, NY 11201",bookstore,1970,1989,Brooklyn,yes
+Crisco Disco,"9th Ave & W 15th St, New York, NY 10011",disco,1970,1983,Manhattan,no
+The Noose,"261 W 19th St, New York, NY 10011",erotica,1970,2007,Manhattan,yes
+David Manscuso Residence/The Loft,"645-547 Broadway, New York, NY 10012",house party,1970,1974,Manhattan,no
+Glory Hole,"130 11th Ave, New York, NY 10011",private club,1970,1995,Manhattan,yes
+Manhole,"28 9th Ave, New York, NY 10014",private club,1970,1989,Manhattan,yes
+Gilded Grape,"719 8th Ave, New York, NY 10036",restaurant,1970,1977,Manhattan,yes
+Hungry Hildas,"709 8th Ave, New York, NY 10036",restaurant,1970,1979,Manhattan,yes
+Legend Gallery,"152 7th Ave S, New York, NY 10014",sex shop,1970,1980,Manhattan,yes
+Ron Alter Designs,"167 8th Ave, New York, NY 10011",sex shop,1970,1978,Manhattan,yes
+Marquis de Suede,"20 W 22nd St, New York, NY 10010",sex shop,1970,1980,Manhattan,yes
+Jorge Menendez,"444 Central Park W, New York, NY 10025",sex shop,1970,1978,Manhattan,yes
+Hernando's,"9 Christopher St, New York, NY 10014",sex shop,1970,1985,Manhattan,yes
+Fire House,"99 Wooster St, New York, NY 10012",activist dances,1971,1974,Manhattan,no
+Regent of Tokyo,"251 W 53rd St, New York, NY 10019",bar,1971,1974,Manhattan,yes
+Club baths,"24 1st Ave, New York, NY 10009",baths,1971,1985,Manhattan,no
+Community Book Stores,"162 Montague St, Brooklyn, NY 11201",bookstore,1971,2025,Brooklyn,no
+New David Cinema,"236 W 54th St, New York, NY 10019",cinema,1971,1995,Manhattan,yes
+Al Buon Gusto,"257 Columbus Ave, New York, NY 10023",restaurant,1971,1972,Manhattan,yes
+Beaded Bag,"951 1st Ave, New York, NY 10022",restaurant,1971,1972,Manhattan,yes
+Circus Lounge,"1369 Flatbush Ave, Brooklyn, NY 11210",restaurant,1971,1972,Manhattan,yes
+El Mirador,"899 1st Ave, New York, NY 10022",restaurant,1971,1972,Manhattan,yes
+Hot Line,"1544 12th Ave, New York, NY 10036",restaurant,1971,1972,Manhattan,yes
+Luigi II,"104 W 13th St, New York, NY 10011",restaurant,1971,1972,Manhattan,yes
+Male Box,"1716 2nd Avenue, New York, NY 10128",restaurant,1971,1972,Manhattan,yes
+One Potato,"518 Hudson St, New York, NY 10014",restaurant,1971,1993,Manhattan,yes
+Rafiki,"170 Avenue A, New York, NY 10009",restaurant,1971,1993,Manhattan,yes
+Spring Street Restaurant and Bar,"162 Spring St, New York, NY 10012",restaurant,1971,1994,Manhattan,yes
+The Striped Shirt,"1393 2nd Ave, New York, NY 10021",restaurant,1971,1972,Manhattan,yes
+Troubador,"1078 1st Ave, New York, NY 10022",restaurant,1971,1974,Manhattan,yes
+Walter's Apartment,"1068 2nd Ave, New York, NY 10022",bar,1972,1974,Manhattan,yes
+Charlie's Also,"1154 1st Ave, New York, NY 10065",bar,1972,NA,Manhattan,
+Ruby Foo,"240 W 52nd St, New York, NY 10019",bar,1972,2015,Manhattan,yes
+Better Days,"315 W 49th St, New York, NY 10019",bar,1972,1988,Manhattan,no
+Bill Bailey's,"492 Bay St, Staten Island, NY 10304",bar,1972,1983,Staten Island,
+Dutchess ,"70 Grove St, New York, NY 10014",bar,1972,1982,Manhattan,no
+Bonnie & Clyde's,"82 W 3rd St, New York, NY 10012",bar,1972,1981,Manhattan,
+The Gas Station,"70 Grove St, New York, NY 10014",bar/disco,1972,NA,Manhattan,yes
+Man's Country,"28 W 15th St, New York, NY 10011",baths/gym/fantasy rooms,1972,1983,Manhattan,no
+Fudge Factory,"308 E 59th St, New York, NY 10022",disco,1972,NA,Manhattan,yes
+Mother Courage,"343 W 11th St, New York, NY 10014",restaurant,1972,1977,Manhattan,no
+Reno Sweeney,"126 W 13th St, New York, NY 10011",restaurant,1972,1981,Manhattan,no
+Uncle Charlie's North,"1049 Lexington Ave, New York, NY 10021",restaurant,1972,1984,Manhattan,yes
+Uncle Charlie's South,"581 3rd Ave, New York, NY 10016",restaurant,1972,1988,Manhattan,yes
+Le Joint,"120 W 51st St, New York, NY 10019",bar,1973,1974,Manhattan,yes
+Ramrod,"394-395 West St, New York, NY 10014",bar,1973,1980,Manhattan,
+Beat Goes East,"601 Morris Park Ave, Bronx, NY 10460",bar,1973,NA,Bronx,
+Continental Sauna,"111 W 56th St, New York, NY 10019",baths,1973,1976,Manhattan,yes
+Le Jardin,"110 West 43rd St, New York, NY 10036",disco,1973,1976,Manhattan,yes
+Eagle Leathers,"P.O. Box 441 Canal Street Station, New York, NY. 10013",leather mail order,1973,NA,Manhattan,
+Bushes,"23 W 73rd St, New York, NY 10023",restaurant/cabaret,1973,1980,Manhattan,yes
+Grand Finale,"210 W 70th St, New York, NY 10023",restaurant,1973,1980,Manhattan,yes
+"One If By Land, Two If By Sea","17 Barrow St, New York, NY 10014",restaurant,1973,2025,Manhattan,no
+Ronnie's Supper Club,"324 E 49th St, New York, NY 10022",restaurant,1973,1974,Manhattan,yes
+The Forest,"1436 3rd Ave, New York, NY 10028",restaurant,1973,1974,Manhattan,yes
+When We Win,"1 Sheridan Square, New York, NY 10014",restaurant,1973,1974,Manhattan,yes
+Boots and Saddle,"100a 7th Ave S, New York, NY 10014",bar,1974,2015,Manhattan,no
+Wall Street Sauna,"1 Maiden Ln, New York, NY 10038",baths,1974,2004,Manhattan,no
+Kelly's Village West,"46 Bedford St, New York, NY 10014",cabaret,1974,1991,Manhattan,yes
+The Anvil,"500 W 14th St, New York, NY 10014",disco/backroom,1974,1986,Manhattan,no
+Flamingo   ,"599 Broadway, New York, NY 10012",juice bar/disco,1974,1980,Manhattan,no
+Beths,"1623 2nd Ave, New York, NY 10028",restaurant,1974,1975,Manhattan,yes
+Casa Paco,"330 Bleecker St, New York, NY 10014",restaurant,1974,1985,Manhattan,yes
+Charlie & Kelly's,"259 West 4th Street, New York, NY 10014",restaurant,1974,1981,Manhattan,yes
+Dazzels,"180 Columbus Ave, New York, NY 10023",restaurant,1974,1975,Manhattan,yes
+Johnny's Pub,"123 E 47th St, New York, NY 10017",restaurant,1974,1988,Manhattan,yes
+The Ice Cream Connection,"24 St Marks Pl, New York, NY 10003",restaurant,1974,1975,Manhattan,yes
+Uncle Charlie's Restaurant,"542 3rd Ave, New York, NY 10016",restaurant,1974,1997,Manhattan,yes
+Yellow Brick Road,"228 W 10th St, New York, NY 10014",restaurant,1974,1975,Manhattan,yes
+The Alley,"63-02 Roosevelt Ave Flushing, NY 11377",bar,1975,NA,Queens,
+Womanbooks,"201 W 92nd St, New York, NY 10025",bookstore,1975,1987,Manhattan,no
+Ramrod Theatre,"210 W 49th St, New York, NY 10019",cinema,1975,1980,Manhattan,yes
+Adonis Cinema,"8th Ave & W 50th St, New York, NY 10019",cinema,1975,1990,Manhattan,no
+Infinity,"653 Broadway, New York, NY 10012",disco,1975,1979,Manhattan,no
+Twelve West,"491 West St, New York, NY 10014",juice bar/disco,1975,1980,Manhattan,no
+Tor ,"21 Greenwich Ave, New York, NY 10014",restaurant,1975,1979,Manhattan,yes
+Mother Earth,"381 Van Duzer St, Staten Island, NY 10304",bar,1976,1982,Staten Island,
+The Mine Shaft,"835 Washington St, New York, NY 10014",bar/backroom,1976,1985,Manhattan,
+Eastside Sauna,"227 E 56th St, New York, NY 10022",baths,1976,2025,Manhattan,no
+Brazil,"86 Mills Ave, Staten Island, NY 10305",club,1976,1982,Staten Island,
+Les Mouches,"260 W 11th St, New York, NY 10014",disco,1976,1982,Manhattan,yes
+Hurrah,"36 W 62nd St, New York, NY 10023",disco,1976,1981,Manhattan,no
+East Side Club,"227 E 56th St, New York, NY 10022",health club,1976,2025,Manhattan,no
+Empire Diner,"154 11th Ave, New York, NY 10011",restaurant,1976,2025,Manhattan,no
+Djuna Books,"154 W 10th St, New York, NY 10014",bookstore,1977,1982,Manhattan,no
+Paradise Garage,"84 King St, New York, NY 10014",club,1977,1987,Manhattan,no
+Studio 54 (originally Gallo Opera House),"254 W 54th St, New York, NY 10019",disco,1977,1986,Manhattan,
+"New York, New York","33 E 52nd St, New York, NY 10022",disco,1977,1981,Manhattan,no
+Ice Palace 57,"57 W 57th St, New York, NY 10019",disco,1977,1985,Manhattan,no
+Starship Discovery I,"350 W 42nd St, New York, NY 10036",private disco/cabaret,1977,NA,Manhattan,yes
+Jan Wallman's,"28 Cornelia St, New York, NY 10014",restaurant,1977,1986,Manhattan,yes
+Red Parrot,"617 W 57th St, New York, NY 10019",club,1978,NA,Manhattan,
+Roxy,"515 W 18th St, New York, NY 10011",disco,1978,2007,Manhattan,no
+Chez Stadium,"56 Greenwich Ave, New York, NY 10011",restaurant,1978,1981,Manhattan,yes
+Rawhide,"212 8th Ave, New York, NY 10011",bar,1979,2013,Manhattan,yes
+Rounds,"303 E 53rd St, New York, NY 10022",bar/restaurant,1979,1994,Manhattan,yes
+New St. Marks baths,"6 St Marks Pl, New York, NY 10003",baths,1979,1985,Manhattan,no
+Park Villa II/On Stage,"70 Beach St, Staten Island, NY 10304",club,1979,1991,Staten Island,
+Fiddlesticks,"205 Cypress Ave, Ridgewood, NY 11385",restaurant,1979,1981,Queens ,yes
+Uncle Charlie's Downtown,"56 Greenwich Ave, New York, NY 10011",bar,1980,1997,Manhattan,no
+Our Place,"7702 Broadway, Elmhurst, NY 11373",bar,1980,1985,Queens,
+Blue's,"264 W 43rd St, New York, NY 10036",bar/disco,1980,1985,Manhattan,yes
+Madison Card & Book Shop,"123 E 57th St, New York, NY 10022",bookstore,1980,1985,Manhattan,yes
+Rendezvous Book Store,"38 W 28th St, New York, NY 10001",bookstore,1980,1990,Manhattan,yes
+Tom Cat Book Store,"38 W 28th St, New York, NY 10001",bookstore,1980,1999,Manhattan,yes
+Jaybird Books,"408 Jay St, Brooklyn, NY 11201",bookstore,1980,1990,Brooklyn,yes
+The Saint,"105 2nd Ave, New York, NY 10003",disco,1980,1988,Manhattan,
+Leather Loft,"313 Amsterdam Ave, New York, NY 10023",gay department store,1980,2005,Manhattan,yes
+A Touch of Class,"113-24 Queens Blvd, Forest Hills, NY 11375",restaurant,1980,1982,Queens ,yes
+Backstage,"318 W 45th St, New York, NY 10036",restaurant,1980,1983,Manhattan,yes
+Big Dish,"383 W 12th St, New York, NY 10014",restaurant,1980,1985,Manhattan,yes
+Big Wok,"753 Washington St, New York, NY 10014",restaurant,1980,1984,Manhattan,yes
+Black Sheep,"342 W 11th St, New York, NY 10014",restaurant,1980,1982,Manhattan,yes
+Blowfish,"551 Hudson Street, New York, NY 10014",restaurant,1980,1982,Manhattan,yes
+Blue Skies,"183 W 10th St, New York, NY 10014",restaurant,1980,1984,Manhattan,yes
+Chez Roman,"1406 3rd Ave, New York, NY 10075",restaurant,1980,1982,Manhattan,yes
+Clyde's,"340 Bleecker St, New York, NY 10014",restaurant,1980,1988,Manhattan,yes
+David's Pot Belly ,"98 Christopher St, New York, NY 10014",restaurant,1980,1982,Manhattan,yes
+Duff's,"115 Christopher St, New York, NY 10014",restaurant,1980,1982,Manhattan,yes
+Four Eleven,"411 Bleecker St, New York, NY 10014",restaurant,1980,1982,Manhattan,yes
+Fulton's Sidewalk Café,"2061 Broadway, New York, NY 10023",restaurant/café,1980,1985,Manhattan,yes
+Jeffrey's,"228 W 10th St, New York, NY 10014",restaurant/cabaret,1980,1982,Manhattan,yes
+Manhattan South,"1 Sheridan Square, New York, NY 10014",restaurant,1980,1982,Manhattan,yes
+Pennyfeathers,"89 7th Ave, New York, NY 10011",restaurant,1980,1982,Manhattan,yes
+Pershing's,"234 Columbus Ave, New York, NY 10023",restaurant,1980,1985,Manhattan,yes
+Pigalle Pigalle,"1047 2nd Ave, New York, NY 10022",restaurant,1980,1982,Manhattan,yes
+Place Across the Street,"56 W 46th St, New York, NY 10036",restaurant,1980,1982,Manhattan,yes
+Prive,"1st Ave. & E 59th St, New York, NY 10022",restaurant,1980,1982,Manhattan,yes
+Solos,"248 E 52nd St, New York, NY 10022",restaurant/cabaret,1980,1982,Manhattan,yes
+Stormy Weather,"1574 2nd Ave, New York, NY 10028",restaurant,1980,1982,Manhattan,yes
+The Ballroom,"458 W Broadway, New York, NY 10012",restaurant,1980,1993,Manhattan,yes
+Trilogy,"135 Christopher St, New York, NY 10014",restaurant,1980,1988,Manhattan,yes
+Village Garden,"West 4th Street & Charles St, New York, NY 10014",restaurant,1980,1982,Manhattan,yes
+Village Green,"531 Hudson St, New York, NY 10014",restaurant,1980,1982,Manhattan,yes
+York's Restaurant,"710 2nd Ave, New York, NY 10016",restaurant,1980,1982,Manhattan,yes
+The River Club,"491 West St, New York, NY 10014",disco,1981,1985,Manhattan,no
+Chelsea Gym,"267 W 17th St, New York, NY 10011",gym,1982,1995,Manhattan,yes
+46th Street,"343 W 46th St, New York, NY 10036",restaurant/cabaret,1982,1983,Manhattan,yes
+Belvedere,"239 3rd Ave, New York, NY 10003",restaurant,1982,1983,Manhattan,yes
+Boodles,"1478 1st Ave., New York, NY 10075",restaurant,1982,1983,Manhattan,yes
+Cajun,"129 8th Ave, New York, NY 10011",restaurant,1982,1983,Manhattan,yes
+Chelsea Big Wok,"207 10th Ave, New York, NY 10011",restaurant,1982,1986,Manhattan,yes
+Don't Tell Mama,"343 W 46th St, New York, NY 10036",restaurant,1982,2025,Manhattan,no
+Heavenly Host,"463 Hudson St, New York, NY 10014",restaurant,1982,1983,Manhattan,yes
+Il Gamberetto,"555 3rd Ave, New York, NY 10016",restaurant/cabaret,1982,1983,Manhattan,yes
+Jason's Park Royal,"23 W 73rd St, New York, NY 10023",restaurant/cabaret,1982,1986,Manhattan,yes
+La Boutique Fantastique Café,"215 W 92nd St, New York, NY 10025",restaurant,1982,1983,Manhattan,yes
+La Cage Aux Folles,"334 E 73rd St, New York, NY 10021",restaurant/cabaret,1982,1983,Manhattan,yes
+Les Nuages,"1436 3rd Ave, New York, NY 10028",restaurant,1982,1983,Manhattan,yes
+Mickey's,"44 W 54th St, New York, NY 10019",restaurant/cabaret,1982,1983,Manhattan,yes
+Old Forge,"179 3rd Ave, New York, NY 10003",restaurant,1982,1983,Manhattan,yes
+Onstage,"349 W 46th St, New York, NY 10036",restaurant/cabaret,1982,1983,Manhattan,yes
+Patrick's,"142 W 10th St, New York, NY 10014",restaurant,1982,1983,Manhattan,yes
+Pete's Café,"135 8th Ave, New York, NY 10011",restaurant,1982,1983,Manhattan,yes
+Priory,"224 E 53rd St, New York, NY 10022",restaurant/cabaret,1982,1983,Manhattan,yes
+Rumbul's,"20 Christopher St, New York, NY 10014",restaurant,1982,1983,Manhattan,yes
+SOB's,"204 Varick St, New York, NY 10014",restaurant,1982,2025,Manhattan,no
+The East Five Three,"244 E 53rd St, New York, NY 10022",restaurant/cabaret,1982,1983,Manhattan,yes
+TJ's,"957 1st Ave., New York, NY 10022",restaurant/cabaret,1982,1983,Manhattan,yes
+Tyson's Restaurant,"756 9th Ave, New York, NY 10019",restaurant,1982,1983,Manhattan,yes
+Upstream,"150 E 39th St, New York, NY 10016",restaurant/cabaret,1982,1983,Manhattan,yes
+Van Buren,"349 W 46th St, New York, NY 10036",restaurant,1982,1983,Manhattan,yes
+Cubby hole,"281 W 12th St, New York, NY 10014",bar,1983,1990,Manhattan,no
+Browne and Ferri,"396 Van Duzer St, Staten Island, NY 10304",bar/restaurant,1983,1995,Staten Island,
+Northern Men's Sauna,"137-08 Northern Blvd, Flushing, NY 11354",baths,1983,1994,Queens,no
+A Different Light,"548 Hudson St, New York, NY 10014",bookstore,1983,2001,Manhattan,no
+Limelight,"47 W 20th St, New York, NY 10011",disco,1983,2007,Manhattan,no
+Crawfords,"957 1st Ave, New York, NY 10022",restaurant,1983,1984,Manhattan,yes
+Inner Circle,"13 Jane St, New York, NY 10014",restaurant/cabaret,1983,1984,Manhattan,yes
+Monster,"80 Grove St, New York, NY 10014",restaurant,1983,1998,Manhattan,yes
+Nightbird,"92 2nd Ave, New York, NY 10003",restaurant,1983,1984,Manhattan,yes
+Pharoah,"8 Christopher St, New York, NY 10014",restaurant,1983,1984,Manhattan,yes
+Scotts on Tenth,"130 10th Ave, New York, NY 10011",restaurant/cabaret,1983,1984,Manhattan,yes
+Silver lining,"349 W 46th St, New York, NY 10036",restaurant,1983,1988,Manhattan,yes
+Wine Press,"1160 1st Ave., New York, NY 10065",restaurant,1983,1984,Manhattan,yes
+Grove Café,"70 Grove St, New York, NY 10014",juice bar,1984,1989,Manhattan,yes
+Holland,"351 W 42nd St, New York, NY 10036",restaurant,1984,1985,Manhattan,yes
+Las Ventanas Restaurant,"329 Bleecker St, New York, NY 10014",restaurant,1984,1985,Manhattan,yes
+Mim's Restaurant,"8 Christopher St, New York, NY 10014",restaurant,1984,1985,Manhattan,yes
+Pete's Place,"317 E 5th St, New York, NY 10003",restaurant,1984,1987,Manhattan,yes
+Rogers Restaurant,"21 Greenwich Ave, New York, NY 10014",restaurant,1984,1985,Manhattan,yes
+Scaramouche Rest.,"157 Duane St, New York, NY 10013",restaurant,1984,1985,Manhattan,yes
+Van D's,"123 E 18th St, New York, NY 10003",restaurant,1984,1985,Manhattan,yes
+Waverly Waverly,"147 Waverly Pl, New York, NY 10014",restaurant,1984,1985,Manhattan,yes
+Love Boat,"7702 Broadway Elmhurst, NY 11373",bar,1985,1995,Queens,
+Chelsea Pines Inn,"317 W 14th St, New York, NY 10014",hotel,1985,2025,Manhattan,yes
+Colonial House Inn,"318 W 22nd St, New York, NY 10011",hotel,1985,2021,Manhattan,yes
+Grand Sea Palace,"346 W 46th St, New York, NY 10036",restaurant,1985,2007,Manhattan,no
+Katherine Restaurant,"183 W 10th St, New York, NY 10014",restaurant,1985,1987,Manhattan,yes
+Shescape,"41 E 58th St, New York, NY 10022",restaurant,1985,1988,Manhattan,yes
+Eighty Eight's,"228 W 10th St, New York, NY 10014",bar/restaurant,1988,1999,Manhattan,
+Chez Michallet,"90 Bedford St, New York, NY 10014",restaurant,1988,2005,Manhattan,yes
+Dutchess II,"70 Grove St, New York, NY 10014",bar,1989,1990,Manhattan,yes
+Friend's Tavern,"78-11 Roosevelt Ave, Jackson Heights, NY 11372",bar,1989,2025,Queens ,
+Judith's Room,"681 Washington St, New York, NY 10014",bookstore,1989,1995,Manhattan,yes
+The Townhouse Restaurant,"206 E 58th St, New York, NY 10022",restaurant,1989,2025,Manhattan,no
+Bar Room 432,"432 W 14th St, New York, NY 10014",bar,1990,1996,Manhattan,no
+Bum Bum Bar,"63-14 Roosevelt Ave, Flushing, NY 11377",bar,1990,2019,Queens,no
+Grove Club,"70 Grove St, New York, NY 10014",bar,1990,1991,Manhattan,no
+Henrietta Hudson,"438-444 Hudson St, New York, NY 10014",bar,1991,2025,Manhattan,no
+Pandora's Box,"70 Grove St, New York, NY 10014",bar,1992,1992,Manhattan,
+Café con Leche,"124 W 43rd St, New York, NY 10036",club,1993,1996,Manhattan,yes
+Cubbyhole,"281 W 12th St, New York, NY 10014",bar,1994,2025,Manhattan,no
+Tiffany II Restaurant,"222 West 4th Street, New York, NY 10014",restaurant,1995,1998,Manhattan,yes
+Meow Mix,"269 E Houston St, New York, NY 10002",club,1996,2004,Manhattan,
+Club Impressions,"1558 3rd Ave, New York, NY 10128",after-hours private club,NA,NA,Manhattan,
+The Turn-Over,"105 W 13th St, New York, NY 10011",bar,NA,NA,Manhattan,
+Uno's Café,"1051 Allerton Ave. Bronx, NY 10469",bar,NA,NA,Bronx,
+Gypsy's,"1065 1st Ave., New York, NY 10022",bar,NA,NA,Manhattan,
+Taggariss House,"108 E 41st St, New York, NY 10168",bar,NA,NA,Manhattan,
+Jack of Diamonds,"1085 2nd Ave, New York, NY 10022",bar,NA,NA,Manhattan,
+Union Club,"110 E 14th St, New York, NY 10003",bar,NA,NA,Manhattan,
+Turn Table,"114 W 45th St, New York, NY 10036",bar,NA,NA,Manhattan,
+John's Joynt,"1154 1st Ave., New York, NY 10065",bar,NA,NA,Manhattan,
+Night Wing,"118 Greenwich Ave, New York, NY 10011",bar,NA,NA,Manhattan,
+Piper's Lounge,"1201 Lexington Ave, New York, NY 10028",bar,NA,NA,Manhattan,
+GoldDiggers,"1234 2nd Ave, New York, NY 10065",bar,NA,NA,Manhattan,
+Midtown 43,"127 West 43rd St, New York, NY 10036",bar,NA,NA,Manhattan,
+Hollywood!,"128 W 45th St, New York, NY 10036",bar,NA,NA,Manhattan,
+Angora Bar,"129 8th Ave, New York, NY 10011",bar,NA,NA,Manhattan,
+Kathy's,"130-06 Atlantic Ave South Richmond Hill, NY 11419",bar,NA,NA,Queens,
+The Square Lemon,"135-06 Northern Blvd Flushing, NY 11354",bar,NA,NA,Queens,
+Outcast,"1382 2nd Ave, New York, NY 10021",bar,NA,NA,Manhattan,
+Village Stix,"139 Christopher St, New York, NY 10014",bar,NA,NA,Manhattan,
+Rocco's,"139 E 34th St, New York, NY 10016",bar,NA,NA,Manhattan,
+17th St Saloon,"143 8th Ave, New York, NY 10011",bar,NA,NA,Manhattan,
+The Cabaret,"1436 3rd Ave, New York, NY 10028",bar,NA,NA,Manhattan,
+Pegasus,"145 E 23rd St, New York, NY 10010",bar,NA,NA,Manhattan,
+Razzle Dazzle,"1485 3rd Ave, New York, NY 10028",bar,NA,NA,Manhattan,
+Fiddle Stix,"1487 1st Ave, New York, NY 10075",bar,NA,NA,Manhattan,
+New Deal,"152 Spring St, New York, NY 10012",bar,NA,NA,Manhattan,
+Last Resort,"153 1st Ave, New York, NY 10003",bar,NA,NA,Manhattan,
+Alibi,"1544 2nd Ave, New York, NY 10028",bar,NA,NA,Manhattan,
+New Jimmy's Supper Club,"1576 3rd Ave, New York, NY 10128",bar,NA,NA,Manhattan,
+Bull in the Bush,"1638 2nd Ave, New York, NY 10028",bar,NA,NA,Manhattan,
+Candle II,"168 Amsterdam Ave, New York, NY 10023",bar,NA,NA,Manhattan,
+96 West,"168 W 96th St, New York, NY 10025",bar,NA,NA,Manhattan,
+Lodge East,"1683 1st Ave, New York, NY 10128",bar,NA,NA,Manhattan,
+Britt Top,"1716 2nd Ave, New York, NY 10128",bar,NA,NA,Manhattan,
+Chaps,"176 E 87th St, New York, NY 10028",bar,NA,NA,Manhattan,
+Tempust Fugit,"178 2nd Ave, New York, NY 10003",bar,NA,NA,Manhattan,
+Squires: Nook,"18 E 13th St, New York, NY 10003",bar,NA,NA,Manhattan,
+Charade,"1800 2nd Ave, New York, NY 10128",bar,NA,NA,Manhattan,
+Sugar's,"183 W 10th St, New York, NY 10014",bar,NA,NA,Manhattan,
+Monte Casino,"185 Montague St Brooklyn, NY 11201",bar,NA,NA,Brooklyn,
+Howie's Hide-A-Way,"185 W 10th St, New York, NY 10014",bar,NA,NA,Manhattan,
+Seesaw,"185 W 10th St, New York, NY 10014",bar,NA,NA,Manhattan,
+La Bamba,"192 2nd Ave, New York, NY 10003",bar,NA,NA,Manhattan,
+Pelican Club,"200 W 70th St, New York, NY 10023",bar,NA,NA,Manhattan,
+My Sister's Place,"2056 Broadway, New York, NY 10023",bar,NA,NA,Manhattan,
+Maneuvers,"208 W 23rd St, New York, NY 10011",bar,NA,NA,Manhattan,
+Nightingale,"213 2nd Ave, New York, NY 10003",bar,NA,NA,Manhattan,
+Ronnie's Roost,"2130 Broadway, New York, NY 10023",bar,NA,NA,Manhattan,
+Lighthouse,"2160 Broadway, New York, NY 10023",bar,NA,NA,Manhattan,
+Westsider Bar,"2160 Broadway, New York, NY 10023",bar,NA,NA,Manhattan,
+Speakeasy,"2160 Broadway, New York, NY 10023",bar,NA,NA,Manhattan,
+Penny Lane,"220 W 49th St, New York, NY 10019",bar,NA,NA,Manhattan,
+Chez Bippy,"2207 Boller Ave, Bronx, NY 10475",bar,NA,NA,Bronx,
+Willie's West Side,"224 W 82nd St, New York, NY 10024",bar,NA,NA,Manhattan,
+Top of the Pits,"230 W 74th St, New York, NY 10023",bar,NA,NA,Manhattan,
+O'Neill's Backyard,"231 W 48th St, New York, NY 10036",bar,NA,NA,Manhattan,
+Pipeline,"232 8th Ave, New York, NY 10011",bar,NA,NA,Manhattan,
+Billy's Chelsea Bar,"232 8th Ave, New York, NY 10011",bar,NA,NA,Manhattan,
+The Barn,"232 Park Ave S, New York, NY 10003",bar,NA,NA,Manhattan,
+Summer Stock,"232 Park Ave S, New York, NY 10003",bar,NA,NA,Manhattan,
+Ginger Bread,"232 Park Ave S, New York, NY 10003",bar,NA,NA,Manhattan,
+Trix,"234 W 50th St, New York, NY 10019",bar,NA,NA,Manhattan,
+Daddy's,"238 3rd Ave, New York, NY 10003",bar,NA,NA,Manhattan,
+Dallas,"243 E 53rd St, New York, NY 10022",bar,NA,NA,Manhattan,
+Le Bar,"243 E 53rd St, New York, NY 10022",bar,NA,NA,Manhattan,
+The Garden Club,"244 E 51st St, New York, NY 10022",bar,NA,NA,Manhattan,
+TR's,"248 E 52nd St, New York, NY 10022",bar,NA,NA,Manhattan,
+Oh Johnny,"248 W 14th St, New York, NY 10011",bar,NA,NA,Manhattan,
+Sombrero,"253-32 Northern Blvd Flushing, NY 11362",bar,NA,NA,Queens,
+Judy's,"255 West 43rd St, New York, NY 10036",bar,NA,NA,Manhattan,
+Shadows,"255 West 43rd St, New York, NY 10036",bar,NA,NA,Manhattan,
+Something Special,"262 W 46th St, New York, NY 10036",bar,NA,NA,Manhattan,
+Dirty Edna's,"264 W 46th St, New York, NY 10036",bar,NA,NA,Manhattan,
+Mothers,"267 W 23rd St, New York, NY 10011",bar,NA,NA,Manhattan,
+Mona's Royal Roost,"28 Cornelia St, New York, NY 10014",bar,NA,NA,Manhattan,
+12th Night,"281 W 12th St, New York, NY 10014",bar,NA,NA,Manhattan,
+4/12 Bar,"281 W 12th St, New York, NY 10014",bar,NA,NA,Manhattan,
+The Big Dish,"283 W 12th St, New York, NY 10014",bar,NA,NA,Manhattan,
+Centre Bar,"29 St Marks Pl, New York, NY 10003",bar,NA,NA,Manhattan,
+Fireside,"30-5 Astoria Blvd Astoria, NY 11102",bar,NA,NA,Queens,
+Bleeker Street,"302 Bleecker St, New York, NY 10014",bar,NA,NA,Manhattan,
+Jaspers,"305 Columbus Ave, New York, NY 10023",bar,NA,NA,Manhattan,
+The Lib,"305 E 45th St, New York, NY 10017",bar,NA,NA,Manhattan,
+Candle Bar,"309 10th Ave, New York, NY 10001",bar,NA,NA,Manhattan,
+Godmother,"309 E 60th St, New York, NY 10022",bar,NA,NA,Manhattan,
+The New Camp,"311 E 60th St, New York, NY 10022",bar,NA,NA,Manhattan,
+Mark East,"313 E 46th St, New York, NY 10017",bar,NA,NA,Manhattan,
+Three,"314 E 72nd St, New York, NY 10021",bar,NA,NA,Manhattan,
+Peeches Three,"314 E 72nd St, New York, NY 10021",bar,NA,NA,Manhattan,
+Paisleys,"320 E 79th St, New York, NY 10075",bar,NA,NA,Manhattan,
+Bucks,"324 Amsterdam Ave, New York, NY 10023",bar,NA,NA,Manhattan,
+Sugarman,"350 E 81st St, New York, NY 10028",bar,NA,NA,Manhattan,
+Joe Allen's,"352 W 46th St, New York, NY 10036",bar,NA,NA,Manhattan,
+GH Club,"353 E 53rd St, New York, NY 10022",bar,NA,NA,Manhattan,
+Brothers And Sisters,"355 W 46th St, New York, NY 10036",bar,NA,NA,Manhattan,
+Chairman,"360 Lexington Ave, New York, NY 10017",bar,NA,NA,Manhattan,
+Three Jolly Pigeons,"37-21 Greenpoint Ave Queens, NY 11101",bar,NA,NA,Queens,
+Bullet Bar,"372 W 11th St, New York, NY 10014",bar,NA,NA,Manhattan,
+Alex in Wonderland,"40 10th Ave, New York, NY 10014",bar,NA,NA,Manhattan,
+The Ginza,"40 E 58th St, New York, NY 10022",bar,NA,NA,Manhattan,
+The Stable,"400 W 14th St, New York, NY 10014",bar,NA,NA,Manhattan,
+Monte's of Henry Street,"404 Henry St Brooklyn, NY 11201",bar,NA,NA,Brooklyn,
+Huey's on Hudson,"432 Hudson St, New York, NY 10014",bar,NA,NA,Manhattan,
+Round-Up,"438 Hudson St, New York, NY 10014",bar,NA,NA,Manhattan,
+Finale,"48 Barrow St, New York, NY 10014",bar,NA,NA,Manhattan,
+Danny's Bar In The Hideaway Motel,"500 W 14th St, New York, NY 10014",bar,NA,NA,Manhattan,
+Meat Rack,"500 W 14th St, New York, NY 10014",bar,NA,NA,Manhattan,
+Ariel,"53 W 19th St, New York, NY 10011",bar,NA,NA,Manhattan,
+The Wine Cellar,"531 Hudson St, New York, NY 10014",bar,NA,NA,Manhattan,
+Frizby's,"531 Hudson St, New York, NY 10014",bar,NA,NA,Manhattan,
+Tracks,"531 W 19th St, New York, NY 10011",bar,NA,NA,Manhattan,
+Jonnathans,"547 2nd Ave, New York, NY 10016",bar,NA,NA,Manhattan,
+Loading Zone,"568 9th Ave, New York, NY 10036",bar,NA,NA,Manhattan,
+Leo's Lion,"57 Lexington Ave, New York, NY 10016",bar,NA,NA,Manhattan,
+Roadhouse,"570 Hudson St, New York, NY 10014",bar,NA,NA,Manhattan,
+Janice's Fish Place,"570 Hudson St, New York, NY 10014",bar,NA,NA,Manhattan,
+Siro's,"58 E 53rd St, New York, NY 10022",bar,NA,NA,Manhattan,
+The Copabanana,"59 Lexington Ave, New York, NY 10016",bar,NA,NA,Manhattan,
+60-05 Club,"60-5 Metropolitan Ave Ridgewood, NY 11385",bar,NA,NA,Queens,
+Zips,"636 Hudson St, New York, NY 10014",bar,NA,NA,Manhattan,
+J's,"675 Hudson St, New York, NY 10014",bar,NA,NA,Manhattan,
+Fountain Blue,"69-05 Queens Blvd Woodside, NY 11377",bar,NA,NA,Queens,
+Dutchess Inn,"70 Grove St, New York, NY 10014",bar,NA,NA,Manhattan,
+Sammy's Folly,"73 5th Ave, New York, NY 10003",bar,NA,NA,Manhattan,
+Phoenix,"73 8th Ave, New York, NY 10014",bar,NA,NA,Manhattan,
+The Octagon,"73-13 37th Rd Jackson Heights, NY 11372",bar,NA,NA,Queens,
+What A Dump,"76-07 Roosevelt Ave Jackson Heights, NY 11372",bar,NA,NA,Queens,
+"Manhattan, A Bar","76-13 Roosevelt Ave Jackson Heights, NY 11372",bar,NA,NA,Queens,
+8 Christopher St. Tavern,"8 Christopher St, New York, NY 10014",bar,NA,NA,Manhattan,
+Gracie's Mansion,"80 Clark Street Brooklyn, NY 11201",bar,NA,NA,Brooklyn,
+Gas Station,"80 Grove St, New York, NY 10014",bar,NA,NA,Manhattan,
+Freidas Hideaway,"81-36 Baxter Ave Elmhurst, NY 11373",bar,NA,NA,Queens,
+Tradition,"82 83rd St Brooklyn, NY 11209",bar,NA,NA,Brooklyn,
+Outside Inn,"82-20 Baxter Ave Elmhurst, NY 11373",bar,NA,NA,Brooklyn,
+La Femme,"85 Washington Pl, New York, NY 10011",bar,NA,NA,Manhattan,
+Top Banana,"858 9th Ave, New York, NY 10019",bar,NA,NA,Manhattan,
+Studio 88,"86-30 Roosevelt Ave Elmhurst, NY 11373",bar,NA,NA,Queens,
+Sticky Fingers,"87 Christopher St, New York, NY 10014",bar,NA,NA,Manhattan,
+Come On,"8813 Foster Ave Brooklyn, NY 11236",bar,NA,NA,Brooklyn,
+Knight Deposit,"938 Amsterdam Ave, New York, NY 10025",bar,NA,NA,Manhattan,
+Sapphire Bar,"957 1st Ave., New York, NY 10022",bar,NA,NA,Manhattan,
+Fabric Factory,"200 W 40th St, New York, NY 10018",bar ,NA,NA,Manhattan,
+Grapevine,"161 W 47th St, New York, NY 10036",bar/cabaret,NA,NA,Manhattan,
+Rant,"115 Christopher St, New York, NY 10014",bar/club,NA,NA,Manhattan,
+Tamburlane,"148 W 48th St, New York, NY 10036",bar/club,NA,NA,Manhattan,
+Red Rooster,"2374 7th Ave, New York, NY 10030",bar/club,NA,NA,Manhattan,
+Big Apple,"3338 Broadway, New York, NY 10031",bar/club,NA,NA,Manhattan,
+Sunset Boulevard,"112-01 Queens Blvd Forest Hills, NY 11375",bar/disco,NA,NA,Queens,
+Hatfield's,"126- 10 Queens Blvd Richmond Hill, NY 11418",bar/disco,NA,NA,Queens,
+Magic Touch,"73-13 37th Rd Jackson Heights, NY 11372",bar/disco,NA,NA,Queens,
+Crissy T Chaps,"7507 New Utrecht Ave Brooklyn, NY 11214",bar/disco,NA,NA,Brooklyn,
+Spectrum,"802 64th St Brooklyn, NY 11220",bar/disco,NA,NA,Brooklyn,
+Sebastian's,"1068 1st Ave., New York, NY 10022",bar/restaurant,NA,NA,Manhattan,
+Breadstix,"113-24 Queens Blvd Forest Hills, NY 11375",bar/restaurant,NA,NA,Queens,
+Christopher's,"115 Christopher St, New York, NY 10014",bar/restaurant,NA,NA,Manhattan,
+Twenty Nine Palms,"129 Lexington Ave, New York, NY 10016",bar/restaurant,NA,NA,Manhattan,
+Blue Fox,"131 8th Ave, New York, NY 10011",bar/restaurant,NA,NA,Manhattan,
+Panache,"149 E 57th St, New York, NY 10022",bar/restaurant,NA,NA,Manhattan,
+Waldo's,"151 Montague St Brooklyn, NY 11201",bar/restaurant,NA,NA,Brooklyn,
+Claire's Restaurant,"156 7th Ave, New York, NY 10011",bar/restaurant,NA,NA,Manhattan,
+Farnies,"18 2nd Ave, New York, NY 10003",bar/restaurant,NA,NA,Manhattan,
+Rockinghorse,"224 Columbus Ave, New York, NY 10023",bar/restaurant,NA,NA,Manhattan,
+Andre's Bar,"2321 Frederick Douglass Blvd, New York, NY 10027",bar/restaurant,NA,NA,Manhattan,
+Bonampak Mexican Restaurant,"235 E 53rd St, New York, NY 10022",bar/restaurant,NA,NA,Manhattan,
+Sundowner's,"309 E 60th St, New York, NY 10022",bar/restaurant,NA,NA,Manhattan,
+Chequers,"311 W 48th St, New York, NY 10019",bar/restaurant,NA,NA,Manhattan,
+Caroline's,"332 8th Ave, New York, NY 10001",bar/restaurant,NA,NA,Manhattan,
+Red Star Café,"400 W 12th St, New York, NY 10014",bar/restaurant,NA,NA,Manhattan,
+Peeches n Creem,"408 E 64th St, New York, NY 10065",bar/restaurant,NA,NA,Manhattan,
+Café Society,"43 E 20th St, New York, NY 10003",bar/restaurant,NA,NA,Manhattan,
+Censi's,"5 Front St Brooklyn, NY 11201",bar/restaurant,NA,NA,Brooklyn,
+McFeeley's,"565 W 23rd St, New York, NY 10011",bar/restaurant,NA,NA,Manhattan,
+23 St Saloon,"565 W 23rd St, New York, NY 10011",bar/restaurant,NA,NA,Manhattan,
+Hornblower's on Horatio,"59 Horatio St, New York, NY 10014",bar/restaurant,NA,NA,Manhattan,
+Su-Su's Yum Yum,"60 Henry St Brooklyn, NY 11201",bar/restaurant,NA,NA,Brooklyn,
+Ox Cart,"78-11 Roosevelt Ave Jackson Heights, NY 11372",bar/restaurant,NA,NA,Queens,
+II Gigolo,"78-17 Roosevelt Ave Flushing, NY 11372",bar/restaurant,NA,NA,Queens,
+Cahoots,"81 Columbus Ave, New York, NY 10023",bar/restaurant,NA,NA,Manhattan,
+Starz,"836 Grand Blvd Westbury, NY 11590",bar/restaurant,NA,NA,Queens,
+Potbelly Stove,"94 Christopher St, New York, NY 10014",bar/restaurant,NA,NA,Manhattan,
+Singles,"951 1st Ave., New York, NY 10022",bar/restaurant,NA,NA,Manhattan,
+La Stanza,"953 1st Ave., New York, NY 10022",bar/restaurant,NA,NA,Manhattan,
+Mayfair,"964 1st Ave, New York, NY 10022",bar/restaurant,NA,NA,Manhattan,
+Freddy's,"308 E 49th St, New York, NY 10017",bar/restaurant/cabaret,NA,NA,Manhattan,
+Priapus Books & Films,"111 E 12th St, New York, NY 10003",book/sex shop,NA,NA,Manhattan,
+It's a Man's World,"287 Amsterdam Ave, New York, NY 10023",bookstore,NA,NA,Manhattan,
+Royal Roost,"154 W 13th St, New York, NY 10011",cabaret,NA,NA,Manhattan,
+The Spartan,"220 E 59th St, New York, NY 10022",cinema,NA,NA,Manhattan,
+Mini,"727 7th Ave, New York, NY 10019",cinema,NA,NA,Manhattan,
+The Fair,"Astoria Blvd & 90th St Queens, NY 11369",cinema,NA,NA,Queens,
+Crazy Horse,"149 Bleecker St, New York, NY 10012",club,NA,NA,Manhattan,
+Club Se Soir,"50 Watts St, New York, NY 10013",club,NA,NA,Manhattan,
+Palace,"110 E 14th St, New York, NY 10003",disco,NA,NA,Manhattan,
+Tory's,"119 E 27th St, New York, NY 10016",disco,NA,NA,Manhattan,
+Tropicalia,"1634 3rd Ave, New York, NY 10128",disco,NA,NA,Manhattan,
+The Ring,"180 Christopher St, New York, NY 10014",disco,NA,NA,Manhattan,
+Warehouse,"201 W 75th St, New York, NY 10023",disco,NA,NA,Manhattan,
+Fridas's,"25 3rd Ave, New York, NY 10003",disco,NA,NA,Manhattan,
+El Castillo Rojo,"252 West 43rd St, New York, NY 10036",disco,NA,NA,Manhattan,
+Sweet Sensation,"2527 65th St Brooklyn, NY 11204",disco,NA,NA,Brooklyn,
+Stix,"304 E 39th St, New York, NY 10016",disco,NA,NA,Manhattan,
+Resurrection,"316 W 49th St, New York, NY 10019",disco,NA,NA,Manhattan,
+Marquee,"439 W 46th St, New York, NY 10036",disco,NA,NA,Manhattan,
+Saturday Night Dance Club,"531 W 19th St, New York, NY 10011",disco,NA,NA,Manhattan,
+"Benton-Smith, Ltd","56 E Mt Eden Ave, Bronx, NY 10452",disco,NA,NA,Bronx,
+Hot Ice,"57 W 57th St, New York, NY 10019",disco,NA,NA,Manhattan,
+Network,"579 6th Ave, New York, NY 10011",disco,NA,NA,Manhattan,
+Zodiac 2000,"63-12 Broadway Woodside, NY 11377",disco,NA,NA,Queens,
+Collage,"63-12 Broadway Woodside, NY 11377",disco,NA,NA,Queens,
+Le Trianon,"74 E 13th St, New York, NY 10003",disco,NA,NA,Manhattan,
+Beritz,"7507 New Utrecht Ave Brooklyn, NY 11214",disco,NA,NA,Brooklyn,
+Star Wars Disco,"79-24 Cypress Ave, Flushing, NY 11385",disco,NA,NA,Queens,
+Blueboy Disco,"96-22 Queens Blvd Rego Park, NY 11374",disco,NA,NA,Queens,
+Sentry Uniform Cap,"106 New Lots Ave Brooklyn, NY 11212",erotica,NA,NA,Brooklyn,
+G&D Merchandise,"113 W 42nd St, New York, NY 10036",erotica,NA,NA,Manhattan,
+"117 Christopher Video, Inc.","117 Christopher St, New York, NY 10014",erotica,NA,NA,Manhattan,
+Eve's Garden,"119 W 57th St, New York, NY 10019",erotica,NA,NA,Manhattan,
+Harmony Video,"139 Christopher St, New York, NY 10014",erotica,NA,NA,Manhattan,
+Pink Pussycat Boutique,"161 West 4th Street, New York, NY 10014",erotica,NA,NA,Manhattan,
+World of Video,"178 7th Ave S, New York, NY 10014",erotica,NA,NA,Manhattan,
+New World Video,"201 E 14th St, New York, NY 10003",erotica,NA,NA,Manhattan,
+Ann Street Adult Entertainment Center,"21 Ann St, New York, NY 10038",erotica,NA,NA,Manhattan,
+Ricky's Place (downstairs),"210 W 42nd St, New York, NY 10036",erotica,NA,NA,Manhattan,
+Courageous Books,"250 W 42nd St, New York, NY 10036",erotica,NA,NA,Manhattan,
+Two-Fifty Book Center,"250 W 42nd St, New York, NY 10036",erotica,NA,NA,Manhattan,
+G & A Books Inc,"251 W 42nd St, New York, NY 10036",erotica,NA,NA,Manhattan,
+Come Again,"353 E 53rd St, New York, NY 10022",erotica,NA,NA,Manhattan,
+Flushing Adult Books & Video (2nd floor),"36-39 Main St Flushing, NY 11354",erotica,NA,NA,Queens,
+Underground Leather,"390 West St, New York, NY 10014",erotica,NA,NA,Manhattan,
+International Film & Video,"453 W 47th St, New York, NY 10036",erotica,NA,NA,Manhattan,
+Gay Treasures,"546 Hudson St, New York, NY 10014",erotica,NA,NA,Manhattan,
+Show Palace/ SLR Merchandising,"672 8th Ave, New York, NY 10036",erotica,NA,NA,Manhattan,
+Xtasy Down Under Male Emporium,"691 8th Ave, New York, NY 10036",erotica,NA,NA,Manhattan,
+Adult Fair Cinema,"90-18 Astoria Blvd, East Elmhurst, NY 11369",erotica,NA,NA,Queens,
+New Male Box,"210 W 42nd St, New York, NY 10036",erotica/cruising,NA,NA,Manhattan,
+Laminations,"39 Christopher St, New York, NY 10014",gift shop,NA,NA,Manhattan,
+Scott Hotel,"132 W 45th St, New York, NY 10036",hotel,NA,NA,Manhattan,
+Seaport Bed & Breakfast,"27 Peck Slip, New York, NY 10038",hotel,NA,NA,Manhattan,
+Sutton East,"330 E 56th St, New York, NY 10022",hotel,NA,NA,Manhattan,
+Amandia House,"722 St Nicholas Ave, New York, NY 10031",hotel,NA,NA,Manhattan,
+Shaft,"181 2nd Ave, New York, NY 10003",juice bar,NA,NA,Manhattan,
+The Jungle,"303 E 60th St, New York, NY 10022",juice bar,NA,NA,Manhattan,
+The Zoo,"303 E 60th St, New York, NY 10022",juice bar,NA,NA,Manhattan,
+Trojan's Den,"162 W 34th St, New York, NY 10001",massage,NA,NA,Manhattan,
+Cherry Grove East,"200 E 14th St, New York, NY 10003",massage,NA,NA,Manhattan,
+Plaza Theatre,"314 Flatbush Ave Brooklyn, NY 11217",porn theatre/crusing,NA,NA,Brooklyn,
+Scotland Yard,"146 West 4th Street, New York, NY 10012",private club,NA,NA,Manhattan,
+The Nine Plus,"202 8th Ave, New York, NY 10011",private club,NA,NA,Manhattan,
+Mood Club,"77 White St, New York, NY 10013",private club,NA,NA,Manhattan,
+Applause,"360 Lexington Ave, New York, NY 10017",restaurant,NA,NA,Manhattan,
+Belly Button,"68 Greenwich Ave, New York, NY 10011",restaurant,NA,NA,Manhattan,
+Casa Laredo,"551 Hudson St, New York, NY 10014",restaurant,NA,NA,Manhattan,
+E & H Kast,"152 Spring St, New York, NY 10012",restaurant,NA,NA,Manhattan,
+Frisby,"530 Hudson St, New York, NY 10014",restaurant,NA,NA,Manhattan,
+Gallery,"77 Christopher St, New York, NY 10014",restaurant,NA,NA,Manhattan,
+Le Jules Verne,"189 W 10th St, New York, NY 10014",restaurant,NA,NA,Manhattan,
+Luizzi's,"180 Prince St, New York, NY 10012",restaurant,NA,NA,Manhattan,
+Max Seafood Restaurant,"305 West End Ave, New York, NY 10023",restaurant,NA,NA,Manhattan,
+Pier Nine,"215 2nd Ave, New York, NY 10003",restaurant,NA,NA,Manhattan,
+Rex Café Expresso,"161 Prince St, New York, NY 10012",restaurant/café,NA,NA,Manhattan,
+Silhouette,"53 W 19th St, New York, NY 10011",restaurant,NA,NA,Manhattan,
+Silver Dollar,"163 Christopher St, New York, NY 10014",restaurant,NA,NA,Manhattan,
+Third Avenue El,"895 3rd Ave, New York, NY 10022",restaurant,NA,NA,Manhattan,
+Leather Rack,"247 W 42nd St, New York, NY 10036",sex shop,NA,NA,Manhattan,
+Strap,"130 10th Ave, New York, NY 10011",backroom,,,Manhattan,
+Camp David,"1007 Lexington Ave, New York, NY 10021",bar,,,Manhattan,
+Lion's,"105 W 13th St, New York, NY 10011",bar,,,Manhattan,
+Danny's of Brooklyn Heights,"108 Montague St, Brooklyn, NY 11201",bar,,,Brooklyn ,
+Ty's,"114 Christopher St, New York, NY 10014",bar,,,Manhattan,
+Tunnel,"116 1st Ave, New York, NY 10009 ",bar,,,Manhattan,
+Nickel Bar,"127 W 72nd St, New York, NY 10023",bar,,,Manhattan,
+Arck Lane,"130-02 Atlantic Ave, South Richmond Hill, NY 11419",bar,,,Queens ,
+Sparky's,"130-4 Atlantic Ave, South Richmond Hill, NY 11419",bar,,,Queens ,
+Chelsea Transfer,"131 8th Ave, New York, NY 10011",bar,,,Manhattan,
+Chi Chiz,"135 Christopher St, New York, NY 10014",bar,,,Manhattan,
+Danny's First,"139 Christopher St, New York, NY 10014",bar,,,Manhattan,
+Yukon Bar,"140 E 53rd St, New York, NY 10022",bar,,,Manhattan,
+Harry's Back East,"1422 3rd Ave, New York, NY 10028",bar,,,Manhattan,
+Two Potato,"143 Christopher St, New York, NY 10014",bar,,,Manhattan,
+Show Place,"146 W 4th St, New York, NY 10012",bar,,,Manhattan,
+Twilight,"1463 3rd Ave, New York, NY 10028",bar,,,Manhattan,
+Painted Pony,"1485 3rd Ave, New York, NY 10028",bar,,,Manhattan,
+Kookie's,"149 West 14th St, New York, NY 10011",bar,,,Manhattan,
+Boy Bar,"15 St Marks Pl, New York, NY 10003",bar,,,Manhattan,
+Chap's,"1558 3rd Ave, New York, NY 10128",bar,,,Manhattan,
+Velvet,"167 Avenue A, New York, NY 10009",bar,,,Manhattan,
+Foxy,"167 Avenue A, New York, NY 10009",bar,,,Manhattan,
+Half Breed,"168 Amsterdam Ave, New York, NY 10023",bar,,,Manhattan,
+Seventeen Barrow Street,"17 Barrow St, New York, NY 10014",bar,,,Manhattan,
+Bull Feathers,"1716 2nd Ave, New York, NY 10128",bar,,,Manhattan,
+Piano Bar,"180 Montague St Brooklyn, NY 11201",bar,,,Brooklyn ,
+The Dugout on Christopher,"185 Christopher St, New York, NY 10014",bar,,,Manhattan,
+P.M.,"204 E 18th St, Brooklyn, NY 11226",bar,,,Manhattan,
+Regency East,"204 E 58th St, New York, NY 10022",bar,,1990,Manhattan,yes
+Numbers,"2057 Broadway, New York, NY 10023",bar,,,Manhattan,
+C.J. Blanda,"209 7th Ave, New York, NY 10011",bar,,,Manhattan,
+Four By Twelve,"218 W. 12th St, New York, NY 10014",bar,,,Manhattan,
+Pauline's Interlude,"2267 7th Ave, New York, NY 10027",bar,,,Manhattan,
+Bike Stop West,"230 W 75th St, New York, NY 10023",bar,,,Manhattan,
+Huddle,"232 8th Ave, New York, NY 10011",bar,,,Manhattan,
+The Break,"232 8th Ave, New York, NY 10011",bar,,,Manhattan,
+Follies,"232 W 48th St, New York, NY 10036",bar,,,Manhattan,
+Brandy's Piano Bar,"235 E 84th St, New York, NY 10028",bar,,,Manhattan,
+Townhouse,"236 E 58th St, New York, NY 10022",bar,,,Manhattan,
+Fedora's,"239 West 4th Street, New York, NY 10014",bar,,,Manhattan,
+Cave,"24 E 22nd St, New York, NY 10010",bar,,,Manhattan,
+Backyard,"243 E 53rd St, New York, NY 10022",bar,,,Manhattan,
+La Fiesta,"253 W 46th St, New York, NY 10036",bar,,,Manhattan,
+M.C.C.,"26 9th Ave, New York, NY 10014",bar,,,Manhattan,
+Den,"264 W 43rd St, New York, NY 10036",bar,,,Manhattan,
+Sally's Hideaway,"264 West 43rd St, New York, NY 10036",bar,,,Manhattan,
+Milano's Lounge,"267 Amsterdam Ave, New York, NY 10023",bar,,,Manhattan,
+Stallion,"277 Bleecker St, New York, NY 10014",bar,,,Manhattan,
+The Gold Rail,"2850 Broadway, New York, NY 10025",bar,,,Manhattan,
+Steve Carney's,"2nd Ave & E 80th St, New York, NY 10075",bar,,,Manhattan,
+Main Man ,"305 Columbus Ave, New York, NY 10023",bar,,,Manhattan,
+Peter Rabbit,"305 W 10th St, New York, NY 10014",bar,,,Manhattan,
+Stage 45,"305 W 45th St, New York, NY 10036",bar,,,Manhattan,
+Wildwood Tavern,"308 Columbus Ave, New York, NY 10023",bar,,,Manhattan,
+Candlelight Lounge,"309 Amsterdam Ave, New York, NY 10023",bar,,,Manhattan,
+The Barefoot Boy,"309 East 39th Street at Second Ave, New York, NY 10016",bar,,,Manhattan,
+Boot Hill,"317 Amsterdam Ave, New York, NY 10023",bar,,,Manhattan,
+Bogarts,"320 E 59th St, New York, NY 10022",bar,,,Manhattan,
+Sound Machine,"330 E. 56th St, New York, NY 10022",bar,,,Manhattan,
+Triangle Bar,"34 9th Ave, New York, NY 10014",bar,,,Manhattan,
+L'Intrigue,"35 W 56th St, New York, NY 10019",bar,,,Manhattan,
+Tijuana Cat,"350 W 46th St, New York, NY 10036",bar,,,Manhattan,
+Cell Block,"372 W 11th St, New York, NY 10014",bar,,,Manhattan,
+Bike Stop East,"381 3rd Ave, New York, NY 10016",bar,,,Manhattan,
+Keller's,"384 West St, New York, NY 10014",bar,,,Manhattan,
+Badlands,"388 West St, New York, NY 10014",bar,,1981,Manhattan,
+Sneakers,"392 West St, New York, NY 10014",bar,,,Manhattan,
+Star Sapphire,"400 E 59th St, New York, NY 10022",bar,,,Manhattan,
+South Dakota,"405 3rd Ave, New York, NY 10016",bar,,,Manhattan,
+Sanctuary,"407 West 43rd St, New York, NY 10036",bar,,,Manhattan,
+The Works,"428 Columbus Ave, New York, NY 10024",bar,,,Manhattan,
+Five Oaks,"49 Grove St, New York, NY 10014",bar,,,Manhattan,
+After Five Plus,"5 Front St Brooklyn, NY 11201",bar,,,Brooklyn ,
+Mr. Spats,"505 W. 23rd St, New York, NY 10011",bar,,,Manhattan,
+Tool Box,"507 West St, New York, NY 10014",bar,,,Manhattan,
+The Stone Wall,"53 Christopher St, New York, NY 10014",bar,,,Manhattan,
+Gianni's,"53 W 19th St, New York, NY 10011",bar,,,Manhattan,
+Silouette,"53 W 19th St, New York, NY 10011",bar,,,Manhattan,
+Dakota,"550 3rd Ave, New York, NY 10016",bar,,,Manhattan,
+Ronnie's Thing,"56 E Mt Eden Ave, Bronx, NY 10452",bar,,,Bronx,
+Barrel Inn,"568 9th Ave, New York, NY 10036",bar,,,Manhattan,
+Red Swing,"57 Lexington Ave, New York, NY 10016",bar,,,Manhattan,
+Plaza Hotel Men's Bar,"5th Ave & Central Park S, New York, NY 10019",bar,,,Manhattan,
+Barbary Coast,"64 7th Avenue, New York, NY 10011",bar,,,Manhattan,
+Paula's,"64 Greenwich Ave, New York, NY 10011",bar,,,Manhattan,
+Washington Square,"675 Broadway, New York, NY 10012",bar,,,Manhattan,
+The Bar ,"68 2nd Ave, New York, NY 10003",bar,,,Manhattan,
+Gantry,"6th Ave & W 13th St, New York, NY 10011",bar,,,Manhattan,
+Trude Heller's,"6th Ave & W 9th St, New York, NY 10011",bar,,,Manhattan,
+Cats  ,"730 8th Ave, New York, NY 10036",bar,,,Manhattan,
+Golden Note,"74-24 37th Ave, Jackson Heights, NY 11372",bar,,,Queens ,
+Billy the Kid,"76-07 Roosevelt Ave, Jackson Heights, NY 11372",bar,,,Queens ,
+Haymarket,"772 8th Ave, New York, NY 10036",bar,,,Manhattan,
+"Suspect, Nowbar","7th Ave S & Leroy St, New York, NY 10014",bar,,,Manhattan,
+Uncle Paul's,"8 Christopher St, New York, NY 10014",bar,,,Manhattan,
+Pieces,"8 Christopher St, New York, NY 10014",bar,,,Manhattan,
+Victor's Quarters,"84 2nd Ave, New York, NY 10003",bar,,,Manhattan,
+Nite Life,"85 Washington Pl, New York, NY 10011",bar,,,Manhattan,
+Crossroad,"858 9th Ave, New York, NY 10019",bar,,,Manhattan,
+Pam-Pam,"95 7th Ave, New York, NY 10011",bar,,,Manhattan,
+Last Call,"975 2nd Ave, New York, NY 10022",bar,,,Manhattan,
+Four Seasons,"99 E 52nd St, New York, NY 10022",bar,,,Manhattan,
+Two Turtles,"E 27th St & Park Ave S, New York, NY 10010",bar,,,Manhattan,
+Sea Colony,"Horatio St & 8th Ave, New York, NY 10014",bar,,,Manhattan,
+Andre's,"W 125th St & Frederick Douglass Blvd, New York, NY 10027",bar,,,Manhattan,
+Faller's Bar,"West St & Christopher St, New York, NY 10014",bar,,,Manhattan,
+The Bridge,"335 E 58th St, New York, NY 10022",bar ,,,Manhattan,
+Betsy Ross,"73-13 37th Ave, Jackson Heights, NY 11372",bar ,,,Queens ,
+Spike Bar,"120 11th Ave, New York, NY 10011",bar/backroom,,,Manhattan,
+ Pyramid Bar,"101 Avenue A, New York, NY 10009",bar/club,,,Manhattan,
+G.G. Knickerbocker,"128 W 45th St, New York, NY 10036",bar/club,,,Manhattan,
+New Danny's St Sheridan SG,"140 Sheridan Square, New York, NY 10014",bar/club,,,Manhattan,
+Hip-A-Drome,"165 Avenue A, New York, NY 10009",bar/club,,,Manhattan,
+Crazy Nanny's,"21 7th Ave S, New York, NY 10014",bar/club,,,Manhattan,
+Flamingo East,"219 2nd Ave, New York, NY 10003",bar/club,,,Manhattan,
+Moroccan Village,"23 W 8th St, New York, NY 10011",bar/club,,,Manhattan,
+Cats Too,"232 W 48th St, New York, NY 10036",bar/club,,,Manhattan,
+Bali Club,"234 W 50th St, New York, NY 10019",bar/club,,,Manhattan,
+Cell Block 28,"28 9th Ave, New York, NY 10014",bar/club,,,Manhattan,
+D.T's a Fat Cat,"281 W 12th St, New York, NY 10014",bar/club,,,Manhattan,
+The Old Vic,"2nd Ave & E 59th St, New York, NY 10022",bar/club,,,Manhattan,
+Splash,"50 W. 17th St, New York, NY 10011",bar/club,,,Manhattan,
+Rose's Turn,"55 Grove St, New York, NY 10014",bar/club,,,Manhattan,
+Arch,"616 39th Ave Woodside, NY 11377",bar/club,,,Queens ,
+Hangout,"675 Hudson St, New York, NY 10014",bar/club,,,Manhattan,
+New Atlantis,"Stillwell Ave, Brooklyn, NY 11214",bar/club,,,Brooklyn ,
+Gold Bug,"83 W 3rd St, New York, NY 10012",bar/disco,,,Manhattan,
+Country Cousin,"1313 3rd Ave, New York, NY 10021",bar/restaurant,,,Manhattan,
+Pepy's Place,"153 W 48th St, New York, NY 10036",bar/restaurant,,,Manhattan,
+Brother Moe's,"1643 1st Ave, New York, NY 10028",bar/restaurant,,,Manhattan,
+Pub Society,"1694 2nd Ave, New York, NY 10128",bar/restaurant,,,Manhattan,
+Tavern on the Turn,"172-22 Hillside Ave., Jamaica, NY 11432",bar/restaurant,,,Queens ,
+Beau Geste,"239 3rd Ave, New York, NY 10003",bar/restaurant,,,Manhattan,
+Cowboys & Cowgirls,"244 E 53rd St, New York, NY 10022",bar/restaurant,,,Manhattan,
+The Nautilus,"267-269 W 23rd St, New York, NY 10011",bar/restaurant,,,Manhattan,
+Company,"365 3rd Ave, New York, NY 10016",bar/restaurant,,,Manhattan,
+Town and Country Pub,"656 9th Ave, New York, NY 10036",bar/restaurant,,,Manhattan,
+Neptune's Pub,"730 8th Ave, New York, NY 10036",bar/restaurant,,,Manhattan,
+Reed's,"8 Christopher St, New York, NY 10014",bar/restaurant,,,Manhattan,
+Village Variety,"3 Horatio St, New York, NY 10014",book/sex shop,,,Manhattan,
+Little Peter's,"St Marks Pl & 3rd Ave, New York, NY 10003",cabaret,,,Manhattan,
+Jewel Theatre,"100 3rd Ave, New York, NY 10003",cinema,,,Manhattan,
+Ruins ,"158 Perry St, New York, NY 10014",cinema,,,Manhattan,
+King's All Male Theatre,"236 W. 50th Street, New York, NY 10019",cinema,,,Manhattan,
+Club 1032,"1032 2nd Ave, New York, NY 10022",club,,,Manhattan,
+Trysting Place,"120-31 83rd Ave, Kew Gardens, NY 11415",club,,,Queens ,
+Peeche,"1200 Lexington Ave, New York, NY 10028",club,,,Manhattan,
+Club Expo/Kit Kat Klub,"124 W 43rd St, New York, NY 10036",club,,,Manhattan,
+Zodiac Uptown,"1487 1st Ave, New York, NY 10075",club,,,Manhattan,
+Life,"158 Bleecker St, New York, NY 10012",club,,,Manhattan,
+The Planetarium,"181 2nd Ave, New York, NY 10003",club,,,Manhattan,
+Two Twenty Club,"220 W Houston St, New York, NY 10014",club,,,Manhattan,
+Charade Club,"2nd Ave & E 93rd St, New York, NY 10128",club,,,Manhattan,
+The Year 2000,"318 W 49th St, New York, NY 10019",club,,,Manhattan,
+Piccadilly Pub,"324 Amsterdam Ave, New York, NY 10023",club,,,Manhattan,
+Krash,"34-48 Steinway St, Astoria, NY 11101",club,,,Queens ,
+Club Fahrenheit,"349 Broadway, New York, NY 10013",club,,,Manhattan,
+G. H. Club,"353 E 53rd St, New York, NY 10022",club,,,Manhattan,
+Don Hill's,"511 Greenwich StNew York, NY 10013",club,,,Manhattan,
+Twilo,"530 W 27th St, New York, NY 10001",club,,,Manhattan,
+Octagon,"555 W 33rd St, New York, NY 10001",club,,,Manhattan,
+Vinyl,"6 Hubert St, New York, NY 10013",club,,,Manhattan,
+Club 71,"71 Pineapple St, Brooklyn, NY 11201",club,,,Brooklyn ,
+Club Freida's Hideaway,"81-36 Baxter Ave, Elmhurst, NY 11373",club,,,Queens ,
+Flavors,"120-31 83rd Ave, Kew Gardens, NY 11415",disco,,,Queens ,
+Sahara,"1234 2nd Ave, New York, NY 10065",disco,,,Manhattan,
+Roundtable,"151 E 50th St, New York, NY 10022",disco,,,Manhattan,
+Hideaway ,"153-40 Hillside Ave., Jamaica, NY 11432",disco,,,Queens ,
+Big Top Theatre,"1604 Broadway, New York, NY 10019",disco,,,Manhattan,
+Club Edelweiss,"167 W 29th St, New York, NY 10001",disco,,,Manhattan,
+El Horoscope,"1969 Jerome Ave, Bronx, NY 10453",disco,,,Bronx,
+Escuelita,"301 W 39th St, New York, NY 10018",disco,,,Manhattan,
+Warehouse Pier 51,"324 Amsterdam Ave, New York, NY 10023",disco,,,Manhattan,
+Paradise  ,"35 W 43rd St, New York, NY 10036",disco,,,Manhattan,
+Dapper & Friends,"350 E 81st St, New York, NY 10028",disco,,,Manhattan,
+Candy Store,"44 W 56th St, New York, NY 10019",disco,,,Manhattan,
+Inferno,"5 W 19th St, New York, NY 10011",disco,,,Manhattan,
+Soundscape,"500 W 52nd St, New York, NY 10019",disco,,,Manhattan,
+Apartment,"508 Willis Ave, Bronx, NY 10455",disco,,,Bronx,
+Mr. Dreams,"63-12 Broadway, Woodside, NY 11377",disco,,,Queens ,
+Sweet Sensations II,"6322 20th Ave, Brooklyn, NY 11204",disco,,,Brooklyn ,
+Rhythm,"6826 New Utrecht Ave, Brooklyn, NY 11219",disco,,,Brooklyn ,
+Sal's Place,"79 Pineapple St, Brooklyn, NY 11201",disco,,,Brooklyn ,
+Cozy Cabin,"92-03 Astoria Blvd, Flushing, NY 11369",disco,,,Queens ,
+Gables,"W 10th St & 7th Ave S, New York, NY 10014",disco,,,Manhattan,
+Barnum Room ,"128 W 45th St, New York, NY 10036",disco ,,,Manhattan,
+The Cock Ring,"189 Christopher St, New York, NY 10014",disco ,,,Manhattan,
+Duplex,"55 Grove St, New York, NY 10014",disco/cabaret,,,Manhattan,
+Pleasure Chest,"152 7th Ave S, New York, NY 10014",erotica,,,Manhattan,
+Gaiety Male Burlesk,"201 W 46th St, New York, NY 10036",erotica,,,Manhattan,
+Pleasure Chest,"939 2nd Ave, New York, NY 10022",erotica,,,Manhattan,
+Francis Cranflone,"357 Dean St, Brooklyn, NY 11217",hotel,,,Brooklyn ,
+Ossi Guest House,"358 W 30th St, New York, NY 10001",hotel,,,Manhattan,
+Sugar Babies,"17 Irving Pl, New York, NY 10003",private club,,,Manhattan,
+Gents,"360 W 42nd St, New York, NY 10036",private club,,,Manhattan,
+Cheeks,"644 Roosevelt Ave Woodside, NY 11377",private club,,,Queens ,
+Iron Horse Pub,"189 7th Ave, Brooklyn, NY 11215",restaurant/cabaret,,,Brooklyn ,
+Rosalie's,"531 Hudson St, New York, NY 10014",restaurant,,,Manhattan,

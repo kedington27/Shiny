@@ -1,0 +1,13 @@
+name: nightlife
+title: nightlife
+username: kylieedington
+account: kylieedington
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13740848
+bundleId: 9719688
+url: https://kylieedington.shinyapps.io/nightlife/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: code_dump.R|combined-maps/app.R|combined-v1-types.csv|geocodeddata/combined_nightlife_geo_sf2.geojson|geocodeddata/combined_nightlife_geo2.csv|geocodeddata/combined_nightlife2_geo.csv
