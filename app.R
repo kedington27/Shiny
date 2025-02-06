@@ -16,7 +16,7 @@ link_shiny <- tags$a(
 )
 link_website <- tags$a(
   shiny::icon("r-project"), "Mapping-Spatial-Networks-of-Queer-Pleasure-Within-New-York-City",
-  href = "https://kedington27.github.io/Mapping-Spatial-Networks-of-Queer-Pleasure-Within-New-York-City/",
+  href = "https://github.com/kedington27/Shiny",
   target = "_blank"
 )
 

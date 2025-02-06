@@ -5,7 +5,7 @@ account: kylieedington
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13740848
-bundleId: 9719688
+bundleId: 9759711
 url: https://kylieedington.shinyapps.io/nightlife/
 version: 1
 asMultiple: FALSE
